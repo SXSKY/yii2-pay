@@ -1,30 +1,31 @@
 {
-　　"name":"zqy234/terrytest",
-　　"description":"Yii2 zqy234 terrytest",
+　　"name":"devxiao8/yii2-pay",
+　　"description":"Yii2 devxiao8 yii2-pay",
 　　"keywords":[
 　　　　"yii2",
-　　　　"terrytest"
+　　　　"yii2-pay",
+       "ali-pay"
 　　],
-　　"homepage":"https://github.com/zqy234/terrytest",
+　　"homepage":"https://github.com/devxiao8/yii2-pay",
 　　"type":"yii2-extension",
 　　"license":"MIT",
 　　"support":{
-　　　　"source":"https://github.com/zqy234/terrytest"
+　　　　"source":"https://github.com/devxiao8/yii2-pay"
 　　},
 　　"authors":[
 　　　　{
-　　　　　　"name":"terry water",
-　　　　　　"email":"zqy234@126.com"
+　　　　　　"name":"xiao8",
+　　　　　　"email":"devloper_xiao8@163.com"
 　　　　}
 　　],
 　　"minimum-stability":"stable",
 　　"require":{
-　　　　"php":">=5.4.0",
+　　　　"php":">=7.0.0",
 　　　　"yiisoft/yii2":">=2.0.6"
 　　},
 　　"autoload":{
 　　　　"psr-4":{
-　　　　　　"terry\":""
+　　　　　　"yii2-pay\":""
 　　　　}
 　　},
 　　"config":{
